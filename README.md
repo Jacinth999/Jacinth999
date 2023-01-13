@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Jacinth999
+- 👋 Hi, I’m @Jacinth
+- I'm looking to pursue a career in Data Science
+
 
 
 <!---
